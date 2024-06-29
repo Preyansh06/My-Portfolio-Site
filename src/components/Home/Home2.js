@@ -22,28 +22,25 @@ function Home2() {
             <p className="home-about-body" data-aos="fade-up">
               <br />
               I'm a <i className="primary-header">
-                Self-Taught Web Developer
+                Software Engineer
               </i>{" "}
-              who loves solving problems and building Websites.
+              currently working for Jio Platforms with 1+ years of experience
               <br />
-              <br />I am passionate about{" "}
-              <i className="primary-header">technologies</i> and love to learn
-              new things.
+              <br />I am passionate {" "}
+              <i className="primary-header">Learner</i> and love to work on challenging projects.
               <br />
-              <br />I am more interested in building new
+              <br />I believe in 
               <i>
-                <i className="primary-header">Web Technologies and Products.</i>
+                <i className="primary-header"> Collaborative working</i> with Teams.
               </i>
               <br />
-              <br />I always apply my experience in developing products with{" "}
-              <i className="primary-header">Node.js</i> and Modern Javascript
-              Library and Framework like
-              <i className="primary-header"> React.js.</i>
+              <br />When it comes to problem solving I apply my experience{" "}
+              <i className="primary-header">Experience and Learning</i> to get to a 
+              fast and efficient solutions.
               <br />
               <br />
               Currently expanding my portfolio by building more{" "}
-              <i className="primary-header">projects </i>projects that I can add
-              here.
+              <i className="primary-header">Projects </i>.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -66,7 +63,7 @@ function Home2() {
             <ul className="home-about-social-links" data-aos="fade-up">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Rahuljha4171"
+                  href="https://github.com/preyansh06"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +74,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/kumardotexe"
+                  href="https://x.com/PreyanshKhanna"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -88,7 +85,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:rahul.workmail01@gmail.com"
+                  href="preyanshkhana1199@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -99,7 +96,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/Rahuljha4171/"
+                  href="https://www.linkedin.com/in/preyansh-khanna-22981920b/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -110,7 +107,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/dead.programmer/"
+                  href="https://www.instagram.com/wanderingfitgeek_/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
